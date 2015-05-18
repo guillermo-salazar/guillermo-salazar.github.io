@@ -1,0 +1,9 @@
+body { 
+/*   background-color: yellow;  */
+  color: green;
+  text-transform: uppercase;
+}
+
+p {
+  max-width: 500px;
+}
