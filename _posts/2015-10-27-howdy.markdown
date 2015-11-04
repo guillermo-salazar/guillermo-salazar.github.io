@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Howdy!"
+date:   2015-10-27 12:20:00
+categories: welcome
+---
+Howdy! This is my first post on my site. I shall try to update it everyday.
